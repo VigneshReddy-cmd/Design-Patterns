@@ -1,0 +1,12 @@
+In the without str the drive method in the both sport and the off road is same then there is chance of the redundancy and duplication of code which leads to several problems
+
+
+
+// to reduce this use startiegie
+ 
+ // make an interface named startiege them implement it to several classes which are common to all now if any new class comes in to pictute in future then implement he interface and use.
+
+ // add the obj of the interface in the vechile class parent 
+
+ // initialise  obj of the onterface in  the constructor with the required  mode and dynamically;
+ // use super keyword 
